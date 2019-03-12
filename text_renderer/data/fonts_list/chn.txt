@@ -1,0 +1,2 @@
+./data/fonts/chn/msyh.ttc
+./data/fonts/chn/simsun.ttc
